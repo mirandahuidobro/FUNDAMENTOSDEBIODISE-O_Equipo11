@@ -28,7 +28,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | F3 | BRAVO LARICO, JUAN PABLO RAI | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | F4 | BASTIDAS REYES, MARIANGEL BEATRIZ | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="Recursos/Imágenes/ImagenMateo.jpeg" width="100" alt="ImagenMateo"> | AUQUI JOTA, LUCIANO MATEO ALEJANDRO | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
-| F6 | CRISOLOGO RAMIREZ, RENATO DEL PIERO | Programador/a - Modelador/ao | Programación, análisis de datos, simulación |
+| <img src="Recursos/Imágenes/ImagenRenato.jpeg" width="100" alt="ImagenRenato"> | CRISOLOGO RAMIREZ, RENATO DEL PIERO | Programador/a - Modelador/ao | Programación, análisis de datos, simulación |
 
 
 ---
