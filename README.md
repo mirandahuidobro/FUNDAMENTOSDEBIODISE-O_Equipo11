@@ -28,10 +28,10 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | ---- | ------ | --- | --------- |
 | <img src="Recursos/Imágenes/ImagenMiranda.jpeg" width="100" alt="ImagenMiranda"> | HUIDOBRO KOKUBUN, MIRANDA NAOMI | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="Recursos/Imágenes/ImagenChristian.jpeg" width="100" alt="ImagenChristian"> | ARANA OCROS, CHRISTIAN JESUS | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="Recursos/Imágenes/ImagenJuan.jpeg" width="100" alt="ImagenJuan"> | BRAVO LARICO, JUAN PABLO RAI | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="Recursos/Imágenes/ImagenMariangel.jpeg" width="100" alt="ImagenMariangel"> | BASTIDAS REYES, MARIANGEL BEATRIZ | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="Recursos/Imágenes/ImagenMateo.jpeg" width="100" alt="ImagenMateo"> | AUQUI JOTA, LUCIANO MATEO ALEJANDRO | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
-| <img src="Recursos/Imágenes/ImagenRenato.jpeg" width="100" alt="ImagenRenato"> | CRISOLOGO RAMIREZ, RENATO DEL PIERO | Programador/a - Modelador/ao | Programación, análisis de datos, simulación |
+| <img src="Recursos/Imágenes/ImagenJuan.jpeg" width="100" alt="ImagenJuan"> | BRAVO LARICO, JUAN PABLO RAI | Diseñador | Diseño de prototipos, creatividad aplicada |
+| <img src="Recursos/Imágenes/ImagenMariangel.jpeg" width="100" alt="ImagenMariangel"> | BASTIDAS REYES, MARIANGEL BEATRIZ | Encargada de documentación | Comunicación científica, redacción técnica |
+| <img src="Recursos/Imágenes/ImagenMateo.jpeg" width="100" alt="ImagenMateo"> | AUQUI JOTA, LUCIANO MATEO ALEJANDRO | Programador | Programación, análisis de datos, simulación |
+| <img src="Recursos/Imágenes/ImagenRenato.jpeg" width="100" alt="ImagenRenato"> | CRISOLOGO RAMIREZ, RENATO DEL PIERO | Modelador | Programación, análisis de datos, simulación |
 
 
 ---
