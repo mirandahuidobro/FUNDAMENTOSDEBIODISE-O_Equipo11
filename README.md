@@ -23,8 +23,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | Foto | Nombre | Rol | Intereses |
 | ---- | ------ | --- | --------- |
 | F1 | HUIDOBRO KOKUBUN, MIRANDA NAOMI | Líder del equipo | Innovación social, sostenibilidad |
-| ![ImagenChristian](Recursos/ImagenChristian)
- | ARANA OCROS, CHRISTIAN JESUS | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| ![ImagenChristian](Recursos/ImagenChristian)| ARANA OCROS, CHRISTIAN JESUS | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | F3 | BRAVO LARICO, JUAN PABLO RAI | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | F4 | BASTIDAS REYES, MARIANGEL BEATRIZ | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | F5 | AUQUI JOTA, LUCIANO MATEO ALEJANDRO | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
