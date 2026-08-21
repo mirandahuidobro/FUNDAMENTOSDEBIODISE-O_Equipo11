@@ -22,12 +22,13 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
 | Foto | Nombre | Rol | Intereses |
 | ---- | ------ | --- | --------- |
-| F1 | Nom1 | Líder del equipo | Innovación social, sostenibilidad |
-| F2 | Nom2 | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| F3 | Nom3 | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| F4 | Nom4 | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| F5 | Nom5 | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
-| F6 | Nom6 | Líder del equipo | Innovación social, sostenibilidad |
+| F1 | HUIDOBRO KOKUBUN, MIRANDA NAOMI | Líder del equipo | Innovación social, sostenibilidad |
+| ![ImagenChristian](Imagenes/ImagenChristian.jpeg)
+ | ARANA OCROS, CHRISTIAN JESUS | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| F3 | BRAVO LARICO, JUAN PABLO RAI | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| F4 | BASTIDAS REYES, MARIANGEL BEATRIZ | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| F5 | AUQUI JOTA, LUCIANO MATEO ALEJANDRO | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| F6 | CRISOLOGO RAMIREZ, RENATO DEL PIERO | Programador/a - Modelador/ao | Programación, análisis de datos, simulación |
 
 
 ---
