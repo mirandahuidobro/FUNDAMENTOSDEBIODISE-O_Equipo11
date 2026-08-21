@@ -16,8 +16,8 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 ---
 ## 📸 Fotografía del Equipo
 
+ <img src="Recursos/Imágenes/ImagenGrupo" width="800" alt="ImagenGrupo">
 ##### *Figura 1. Fotografía del equipo 11*
- <img src="Recursos/Imágenes/ImagenGrupo" width="950" alt="ImagenGrupo">
 ---
 ## 👥 Integrantes del Equipo
 
