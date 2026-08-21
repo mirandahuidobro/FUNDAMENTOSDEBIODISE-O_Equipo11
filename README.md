@@ -21,8 +21,9 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 ## 👥 Integrantes del Equipo
 
 | Foto | Nombre | Rol | Intereses |
-|F1| Nom1 | Líder del equipo | Innovación social, sostenibilidad |
-|F2| Nom2
+| ---- | ------ | --- | --------- |
+| F1 | Nom1 | Líder del equipo | Innovación social, sostenibilidad |
+
 
 ---
 ## 📌 Resumen Final
