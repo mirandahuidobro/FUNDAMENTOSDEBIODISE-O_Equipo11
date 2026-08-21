@@ -23,6 +23,11 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 | Foto | Nombre | Rol | Intereses |
 | ---- | ------ | --- | --------- |
 | F1 | Nom1 | Líder del equipo | Innovación social, sostenibilidad |
+| F2 | Nom2 | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| F3 | Nom3 | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| F4 | Nom4 | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| F5 | Nom5 | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| F6 | Nom6 | Líder del equipo | Innovación social, sostenibilidad |
 
 
 ---
