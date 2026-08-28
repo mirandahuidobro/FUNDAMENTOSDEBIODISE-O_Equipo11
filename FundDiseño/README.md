@@ -1,4 +1,4 @@
-# FundDiseño
+# FundBiodiseño
 Esta carpeta debe contener todo lo relacionado al avance del proyecto, incluyendo:
 - Documentación técnica y de entregables
 - Presentaciones
